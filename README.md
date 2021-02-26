@@ -19,7 +19,7 @@ Ball Go是球类简单易操作的休闲益智游戏。
 * 徐依依：游戏结束界面代码编写，PPT，Word文档设计，游戏美工设计
 
 ## 项目规划
-![image](https://github.com/coderZMR/BallGo/blob/main/Resources4ReadMe/BallGo_MindMap.png）
+![image](https://github.com/coderZMR/BallGo/blob/main/Resources4ReadMe/BallGo_MindMap.png)
 
 ## UML图
 ![image](https://github.com/coderZMR/BallGo/blob/main/Resources4ReadMe/BallGo_UMLGraph.jpg)
